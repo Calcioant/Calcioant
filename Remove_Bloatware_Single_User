@@ -48,3 +48,4 @@ Get-AppxPackage  BytedancePte.Ltd.TikTok | Remove-AppPackage
 Get-AppxPackage  Microsoft.549981C3F5F10 | Remove-AppxPackage
 #Remove Outlook (New)
 Get-AppxPackage -Name *OutlookForWindows* | Remove-AppPackage
+
